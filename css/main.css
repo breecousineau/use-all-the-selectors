@@ -40,3 +40,7 @@ nav ul {
 .dfn p + strong {
   color: #fff;
 }
+
+a - .no-highlight {
+background-color: #719e07;
+}
