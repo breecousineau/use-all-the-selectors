@@ -20,6 +20,10 @@ nav ul {
   color: #93a1a1
 }
 
-.wrapper {
+.wrapper > .dfn {
   background-color: #b58900
+}
+
+.strong > .dfn {
+  color: #fff;
 }
