@@ -37,6 +37,6 @@ nav ul {
   background-color: #b58900
 }
 
-.strong > .dfn {
+.dfn p + strong {
   color: #fff;
 }
