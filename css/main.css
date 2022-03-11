@@ -51,11 +51,11 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-ol li:first-child {
+li ol:first-child {
   color: #719e47;
 }
 
-li ul:last-child:target {
+ul li:last-child {
   color: #2aa198;
 }
 
