@@ -1,15 +1,15 @@
 html {
   box-sizing: border-box;
   background-color: #fff;
-  font-family: Gerogia,sans-serif;
+  font-family: Gerogia, sans-serif;
   line-height: 1.5;
-  }
+}
 
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
-  }
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
 
 body {
   background-color: #fdf6e3;
@@ -22,6 +22,7 @@ header + footer {
 nav > ul {
   font-family: sans-serif;
 }
+
 .logo {
   text-transform: uppercase;
 }
@@ -45,14 +46,15 @@ nav > ul {
 a:not(.no-highlight) {
   background-color: #719e07;
 }
+
 [rel="external"] {
   background-color: #2694d8;
 }
 
 li:first-child > ol {
   color: #719e47;
-
 }
+
 ul:last-child > li:target {
   color: #2aa198;
 }
