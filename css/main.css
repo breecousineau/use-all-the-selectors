@@ -58,3 +58,15 @@ li:first-child > ol {
 ul:last-child > li:target {
   color: #2aa198;
 }
+
+li odd > .types {
+  background-color: #657ba3;
+}
+
+li even > .types {
+  background-color: #586e75;
+}
+
+3 li > .types {
+  background-color: #d04b16;
+}
