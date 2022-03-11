@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #fff;
   font-family: Georgia, sans-serif;
-  line-height: 1.5;
+  line-height: 1.5rem;
 }
 
 *,
@@ -51,7 +51,7 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-li:first-child > ol {
+li:first-child {
   color: #719e47;
 }
 
