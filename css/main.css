@@ -59,11 +59,11 @@ ul:last-child > li:target {
   color: #2aa198;
 }
 
-li odd > .types {
+li:nth-child(odd) > .types {
   background-color: #657ba3;
 }
 
-li even > .types {
+li:nth-child(even) > .types {
   background-color: #586e75;
 }
 
